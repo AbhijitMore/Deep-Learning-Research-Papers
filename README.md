@@ -4,7 +4,7 @@ Welcome to my curated collection of deep learning research papers! I have a habi
 
 ## 🔍 Computer Vision
 
-1. **[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)**  
+1. **[You Only Look Once: Unified, Real-Time Object Detection](https://abhijitmore.github.io/posts/YoloV1/)**  
    A groundbreaking work that revolutionized object detection by introducing a single-stage detector, enabling real-time processing without compromising accuracy.
 
 2. **[A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS](https://arxiv.org/pdf/2304.00501)**  
