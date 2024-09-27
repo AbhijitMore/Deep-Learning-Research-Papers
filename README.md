@@ -7,7 +7,7 @@ Welcome to my curated collection of deep learning research papers! I have a habi
 1. **[You Only Look Once: Unified, Real-Time Object Detection](https://abhijitmore.github.io/posts/YoloV1/)**  
    A groundbreaking work that revolutionized object detection by introducing a single-stage detector, enabling real-time processing without compromising accuracy.
 
-2. **[A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS](https://arxiv.org/pdf/2304.00501)**  
+2. **[A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS](https://abhijitmore.github.io/posts/A-Comprehensive-Review-of-YOLO-Architectures-in-Computer-Vision/)**  
    A deep dive into the evolution of YOLO architectures, tracking their advancements from the original YOLO to the latest state-of-the-art models, YOLO-NAS.
 
 3. **[ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)**  
